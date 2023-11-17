@@ -1,1 +1,1 @@
-FROM flagsmith/flagsmith:latest
+FROM usefathom/fathom:latest
