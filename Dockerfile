@@ -1,0 +1,1 @@
+FROM flagsmith/flagsmith:latest
